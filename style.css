@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+<div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+
+body {
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+
+<div {
+    margin-top: 15px;
+}
+
+.image-sections {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.download.jpg {
+    border-image-repeat: repeataa;
+}
+
+.section-design {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
